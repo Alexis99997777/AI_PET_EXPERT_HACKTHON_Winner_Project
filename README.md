@@ -6,7 +6,7 @@ The system is built using **LangChain**, **Retrieval-Augmented Generation (RAG)*
 
 <h4>frontend website:https://pawsitiveai.netlify.app/</h4>
 <h4>backend website:https://pawsitive-ai-aipetexpertagent.onrender.com</h4>
-<h4>backend API Test doc interface(based on Swagger):https://pawsitive-ai-aipetexpertagent.onrender.com/docs</h4>
+<h4>backend API Test docs(based on Swagger):https://pawsitive-ai-aipetexpertagent.onrender.com/docs</h4>
 
 
 ## ✨ Key Features
